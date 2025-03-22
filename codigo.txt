@@ -2,3 +2,4 @@ Hello Git!
 
 aprender é muito bom para o cérebro!
 
+O Git irá salvar a minha vida.
